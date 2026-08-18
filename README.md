@@ -1,5 +1,8 @@
 ## Hi there 👋
 ## About me 👋
+## Perfecto me 👋
+## Githuber me 👋
+## Friendly me 👋
 <!--
 **FelixEiffel21/FelixEiffel21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
